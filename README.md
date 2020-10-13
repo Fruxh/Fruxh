@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, my name is [Finn][website] 👋
 
-<!--
-**Fruxh/Fruxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
 
-Here are some ideas to get you started:
+[<img align="left" alt="fruxh.moe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="fruxh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="fruxh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+---
+
+[website]: https://fruxh.moe
+[twitter]: https://twitter.com/fruxhx
+[instagram]: https://instagram.com/fruxh
