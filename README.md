@@ -13,4 +13,3 @@
 
 [website]: https://fruxh.moe
 [twitter]: https://twitter.com/fruxhx
-[instagram]: https://instagram.com/fruxh
